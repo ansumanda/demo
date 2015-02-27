@@ -5,4 +5,4 @@
 
 
 (println (fact 6))
-(println (fact-tail-recur 100000))
+(println (fact-tail-recur 20))
